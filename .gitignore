@@ -1,0 +1,13 @@
+# Ignore Colab system configurations and logs
+.config/
+sample_data/
+
+# Ignore local datasets and archives
+data/
+datasets/
+*.zip
+*.tar.gz
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
