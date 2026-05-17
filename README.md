@@ -30,16 +30,10 @@ An optimized Deep Learning pipeline to classify handwritten digits using TensorF
 * Observation: Validation accuracy often tracks slightly higher than training accuracy, confirming that the Dropout and BatchNormalization layers are performing effectively.
 
 
-
-## 🛠️ How to Run
-1. Setup Environment
-Bash
-pip install tensorflow keras-tuner matplotlib seaborn pandas
-2. Train the Model
-Run the champion script to train the optimized architecture:
-
-Bash
-python src/train_champion.py
+## 🚀 How to Run the Project
+1. Clone the repository and navigate into it.
+2. Install dependencies (`pip install tensorflow keras matplotlib numpy`).
+3. Run the notebook: `jupyter notebook "Deep MNIST Champion.ipynb"`.
 
 
 ##📈 Performance Visuals
