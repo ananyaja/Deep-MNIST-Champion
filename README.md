@@ -2,6 +2,13 @@
 
 An optimized Deep Learning pipeline to classify handwritten digits using TensorFlow, Keras Tuner, and a dynamic 3-stage Convolutional Neural Network (CNN) architecture.
 
+### 📊 Model Performance Summary
+
+| Model Architecture | Training Accuracy | Validation Accuracy | Key Strategy Used |
+| :--- | :--- | :--- | :--- |
+| **Baseline CNN** | ~95.0% | ~94.5% | Standard Convolution + Pooling |
+| **Champion CNN** | ~99.2% | ~99.0% | Added Dropout & Batch Normalization |
+
 ## 📂 Project Structure
 
 ```text
