@@ -29,7 +29,7 @@ An optimized Deep Learning pipeline to classify handwritten digits using TensorF
 
 
 
-## 📊 Results \\\& Performance
+## 📊 Results & Performance
 
 
 * Resilience: Implemented CSVLogger and ModelCheckpoint to ensure training progress is saved even if the environment restarts.
