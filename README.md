@@ -62,8 +62,10 @@ pip install -r requirements.txt
 python src/01_hyperparameter_tuning.py
 python src/train_champion.py
 ```
-##📈 Performance Visuals
-results/learning_curves.png: Loss and accuracy progression across epochs.
+## 📈 Performance Visuals
+
 ![Learning Curves](results/learning_curves.png)
+results/learning_curves.png: Loss and accuracy progression across epochs.
+
 
 results/training_log.csv: Epoch-by-epoch training and validation metrics.
